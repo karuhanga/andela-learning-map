@@ -46,7 +46,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | **Context:** When soliciting team input into a key decision **Action:** I offer the same prompt to each team member requesting they add their unique perspective to the decision making process | [ ] |    [ ] |
 | **Context:** When leading new team members on a project **Action:** I keep track of the decision making inputs each of them offers to the group until I'm confident everyone is being heard | [ ] |    [ ] |
 | **Context:** When I receive input towards making a decision **Action:** I consider the input with other stakeholders' perpectives in mind | [ ] |    [ ] |
-| **Context:** When I receive input towards making a decision **Action:** I weigh the inputs against the outcomes of the desied decision | [ ] |    [ ] |
+| **Context:** When I receive input towards making a decision **Action:** I weigh the inputs against the outcomes of the desired decision | [ ] |    [ ] |
 
 
 ----------
