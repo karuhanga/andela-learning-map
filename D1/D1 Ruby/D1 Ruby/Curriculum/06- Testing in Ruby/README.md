@@ -1,4 +1,4 @@
-#Outcome 6- Testing in Ruby (TDD)
+# Outcome 6- Testing in Ruby (TDD)
 
 Skill Description
 ---------- 
@@ -8,7 +8,6 @@ Outputs
 ----------
 - **Task:** Test your command line app as it is, and try to work through fixing any bugs/errors. 
 - **Resources:** Using Test Driven Development, go back and re-build the simple app in command line with TDD steps included along the way. 
-- **Include:**  N/A
 
 ----------
 ## **Knowledge**
@@ -19,6 +18,7 @@ Outputs
 | Why Test Driven Development is important in Ruby  | [ ] | [ ]  |
 | Definition of the “Red-Green-Refactor cycle” in TDD | [ ] | [ ]  |
 | How to use the Pry debugger | [ ] | [ ]  |
+| Basic familiarity with Capybara, Factory Girl, RSpec, and Minitest, and when to use each | [ ] | [ ]  |
 | How to use RSpec library to write test cases | [ ] | [ ]  |
 | How to use Minitest library to write test cases  | [ ] | [ ]  |
 | Pros and cons of RSpec vs. Minitest | [ ] | [ ]  |
