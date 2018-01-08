@@ -51,3 +51,4 @@ Outputs
 ### Resources
 
 - [Simple approach to Rails 5 API authentication with Json Web Token](https://www.codementor.io/omedale/simple-approach-to-rails-5-api-authentication-with-json-web-token-cpqbgrdo6) - Written by Oluwafemi Medale
+- [Build a RESTful JSON API With Rails 5 - Part One](https://scotch.io/tutorials/build-a-restful-json-api-with-rails-5-part-one) - Written by Austin Kabiru
