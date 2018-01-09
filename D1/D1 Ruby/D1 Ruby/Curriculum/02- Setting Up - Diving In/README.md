@@ -62,3 +62,6 @@ Outputs
 | As a Ruby developer, I learn by “Playing” a lot! | [ ] | [ ]  |
 | As a Ruby developer, I constantly try, try, try in order to figure out how to do something new. | [ ] | [ ]  |
 | I can create exciting Ruby apps right within my command line. | [ ] | [ ]  |
+
+## Resources
+- [Chapter 1: Setting up and Deployment](https://www.udemy.com/learn-ruby-on-rails-from-scratch/)
