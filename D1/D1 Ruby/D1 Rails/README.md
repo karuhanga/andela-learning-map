@@ -25,5 +25,5 @@ The Ruby on Rails learning path is recommended to be completed only after going 
 ### Here are some free resources to get you started on your rails journey
 - [Learn Ruby on Rails from Scratch](https://www.udemy.com/learn-ruby-on-rails-from-scratch/) - _9.5 hours Udemy Course_
 - [The Free React on Rails 5 course](https://learnetto.com/users/hrishio/courses/the-free-react-on-rails-5-course) - _A 4-course module that would cost you just your email address_
-- [Ruby on Rails Tutorial (Rails 5)](https://www.railstutorial.org/book/frontmatter) - _14-chapter online book_ Recommended by Rehema Wachira
+- [Ruby on Rails Tutorial (Rails 5)](https://www.railstutorial.org/book/frontmatter) - _14-chapter online book_ - Recommended by Rehema Wachira
 
