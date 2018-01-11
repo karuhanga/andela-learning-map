@@ -66,3 +66,6 @@ Outputs
 | The Rails framework enables me to do more with less code. | [ ] | [ ]  |
 | To be a world class Rails developer, I must not only understand the rules behind how to do something, but also why I am doing it that way. | [ ] | [ ]  |
 | When using the Rails framework, there are a lot of rules-- to be a world class developer, I must learn which rules should be kept and which rules can be broken. | [ ] | [ ]  |
+
+### Resources
+- [The MVC Pattern in Ruby](https://www.udacity.com/course/the-mvc-pattern-in-ruby--ud270?utm_medium=referral&utm_campaign=api) _Free Udacity Course_ 
