@@ -17,6 +17,7 @@ The Python for Web curriculum detailed here shows all the Knowledge, Behaviors a
 ## General Resources
 #### Resources to get you started on your Python Journey
 
+- [A curated PluralSight Path](https://app.pluralsight.com/channels/details/7ea6a9f4-44c5-4c5d-9f74-34506617067c) to help you get started... and to help you continually keep learning! 
 - [Idiomatic Python. Coding the smart way](https://medium.com/the-andela-way/idiomatic-python-coding-the-smart-way-cc560fa5f1d6) - Written by John Seremba
 - [_Python Tips_](http://book.pythontips.com/en/latest/index.html) - Contirbuted by Bolaji Olajide
 - [Learn Python from Zero to Hero](https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567) - Contirbuted by Bolaji Oajide
