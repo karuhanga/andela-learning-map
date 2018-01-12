@@ -15,7 +15,7 @@ The Ruby Development curriculum is a path that includes the following Learning O
 
 --- 
 
-**Get Started Learning at your Level**
+# Get Started Learning at your Level
 
 You can start learning at any level. If you learn best by diving straight in-- get in there! Get your hands dirty, build some code, learn by doing. If you prefer to test the water with your toes before diving in, read over the syllabus below, click into interesting links, and start to explore.
 
