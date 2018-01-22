@@ -52,3 +52,8 @@ The Entry-Level Developer is the first role in the Andela Fellowship. It include
 47. Pivotal Tracker
 48. Slack
 49. Skype / Hangouts
+
+---
+
+### Resources
+- [Here's a great work == learning resource that lets you rebuild all your favorite classic games and apps... and add to them, too!](https://glitch.com/)
