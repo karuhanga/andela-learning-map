@@ -22,3 +22,7 @@ The Technical Team Lead is a role that comes after Mid-Level Developer and befor
 18. Estimating
 19. Spreadsheets
 20. Pivotal Tracker
+
+
+
+[Leave your Feedback Here.](https://goo.gl/forms/3L1LYIy2jMlhzrYn2)
