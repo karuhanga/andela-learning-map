@@ -40,4 +40,5 @@ See a Word Doc version of the [D2 DevOps Curriculum Here](https://docs.google.co
   
   
 
+[Leave your Feedback Here.](https://goo.gl/forms/3L1LYIy2jMlhzrYn2)
 
