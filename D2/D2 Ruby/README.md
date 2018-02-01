@@ -18,3 +18,6 @@ As a D2 Ruby Dev, you will combine advanced Ruby and Web Frameworks (mainly Ruby
 
 
 **Note:** This curriculum is still pending edits-- please contribute your expertise, experience and resources through a pull request if you see any additions or changes you would like to suggest!
+
+
+[Leave your Feedback Here.](https://goo.gl/forms/3L1LYIy2jMlhzrYn2)
