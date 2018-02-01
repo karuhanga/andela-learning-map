@@ -18,3 +18,5 @@ These learning outcomes contains content required to have a full grasp of the de
 12. Sensors & Location
 13. Network Operations
 14. Publishing an Android App
+
+[Leave your Feedback Here.](https://goo.gl/forms/3L1LYIy2jMlhzrYn2)
