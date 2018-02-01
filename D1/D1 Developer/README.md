@@ -57,3 +57,6 @@ The Entry-Level Developer is the first role in the Andela Fellowship. It include
 
 ### Resources
 - [Here's a great work == learning resource that lets you rebuild all your favorite classic games and apps... and add to them, too!](https://glitch.com/)
+
+
+[Leave your Feedback Here.](https://goo.gl/forms/3L1LYIy2jMlhzrYn2)
