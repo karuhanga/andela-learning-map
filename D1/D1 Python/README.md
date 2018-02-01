@@ -21,3 +21,7 @@ The Python for Web curriculum detailed here shows all the Knowledge, Behaviors a
 - [Idiomatic Python. Coding the smart way](https://medium.com/the-andela-way/idiomatic-python-coding-the-smart-way-cc560fa5f1d6) - Written by John Seremba
 - [_Python Tips_](http://book.pythontips.com/en/latest/index.html) - Contirbuted by Bolaji Olajide
 - [Learn Python from Zero to Hero](https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567) - Contirbuted by Bolaji Oajide
+
+
+
+[Leave your Feedback Here.](https://goo.gl/forms/3L1LYIy2jMlhzrYn2)
