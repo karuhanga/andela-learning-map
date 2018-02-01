@@ -19,3 +19,6 @@ The Python for Web curriculum detailed here shows the technical Knowledge, Behav
 
 
 >**Note:** This curriculum is still pending edits-- please contribute your expertise, experience and resources through a pull request if you see any additions or changes you would like to suggest!
+
+
+[Leave your Feedback Here.](https://goo.gl/forms/3L1LYIy2jMlhzrYn2)
