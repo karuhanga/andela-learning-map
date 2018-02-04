@@ -21,7 +21,6 @@ Outputs
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
-
 | How to measure performance of your Rails application | [ ] | [ ]  |
 | Major tools used to help measure performance | [ ] | [ ]  |
 | Definition of benchmarking or profiling | [ ] | [ ]  |
