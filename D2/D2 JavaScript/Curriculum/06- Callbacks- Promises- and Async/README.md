@@ -60,3 +60,4 @@ A person with this skill can describe what is meant by “asynchronous programmi
 ### Resources
 
 - ["ASYNC/AWAIT will make your code simpler"](https://blog.patricktriest.com/what-is-async-await-why-should-you-care/) - Contributed by Anthony Nandaa
+- [Async Heaven In JavaScript](https://medium.com/backticks-tildes/async-heaven-in-javascript-bdc3a45af980) - Written by Chuks Opia
