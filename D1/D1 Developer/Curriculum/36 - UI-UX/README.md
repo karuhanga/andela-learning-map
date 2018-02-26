@@ -80,3 +80,6 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 - [Design better forms](https://uxdesign.cc/design-better-forms-96fadca0f49c) - Contributed by dara Oladosu
 - [Best UI Frameworks for your new React.js App](https://hackernoon.com/the-coolest-react-ui-frameworks-for-your-new-react-app-ad699fffd651) - Contirbuted by Bolaji Olajide
 - [The Landing Page Cookbook](https://yourlandingpagesucks.com/cookbook/?ref=producthunt) - Contributed by Bolaji Olajide
+- [Little UI Details](https://twitter.com/i/moments/880688233641848832?lang=en) - Contributed by Christopher Kanyuga
+- [Self Taught UX by Melissa Hui](https://trello.com/b/yK2BIOnm/self-taught-ux-shareux-by-melissahui) - Bolaji Olajide
+- [What’s the difference between UX and UI design?](https://medium.freecodecamp.org/whats-the-difference-between-ux-and-ui-design-2ca8d107de14) - Contributed by Chrispine Chiedo
