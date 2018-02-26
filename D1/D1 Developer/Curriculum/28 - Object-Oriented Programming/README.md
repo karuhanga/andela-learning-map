@@ -61,4 +61,4 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 - [_SOLID Principles of OOP_](https://app.pluralsight.com/library/courses/principles-oo-design/table-of-contents)- PluralSight 
 - [_Review of Object Oriented Programming_](https://www.codecademy.com/courses/intro-to-object-oriented-programming/0/1)- Code Academy, for those who like hands-on practice
 - [“Introduction to Object Oriented Programming”](https://www.codeproject.com/Articles/22769/Introduction-to-Object-Oriented-Programming-Concep)- For those who like documentation, goes in deeper into other related concepts as well. 
-
+- [Object-Oriented Programming In Plain English](https://medium.com/backticks-tildes/object-oriented-programming-in-plain-english-2f8791badb92) - Written by Olufisayo Bamidele
