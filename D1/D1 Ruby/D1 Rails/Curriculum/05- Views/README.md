@@ -62,3 +62,7 @@ Outputs
 | Views are the eyes to the soul of a Rails application-- it is how I interact with my users. | [ ] | [ ]  |
 | The view is the simplest part of the MVC structure. | [ ] | [ ]  |
 | I am not limited to the default template engine (ERB) that Rails provides. | [ ] | [ ]  |
+
+### Resources
+
+- [Unobtrusive JavaScript in Rails](https://medium.com/backticks-tildes/unobtrusive-javascript-in-rails-c37fc757d8b1) - Written by Chuks Opia
