@@ -65,4 +65,4 @@ Outputs
 
 ## Resources
 - [Chapter 1: Setting up and Deployment](https://www.udemy.com/learn-ruby-on-rails-from-scratch/)
-- [Ruby versioning with Ruby Version Manager (RVM)](https://medium.com/the-andela-way/ruby-versioning-with-ruby-version-manager-rvm-6a3198b263df} - Written by Lorna Tumuhairwe 
+- [Ruby versioning with Ruby Version Manager (RVM)](https://medium.com/the-andela-way/ruby-versioning-with-ruby-version-manager-rvm-6a3198b263df) - Written by Lorna Tumuhairwe 
