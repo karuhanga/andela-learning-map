@@ -57,4 +57,3 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 - ["The Mongo Shell Basics"](https://medium.com/@atingenkay/the-mongo-shell-basics-e29503f0f785) - Contributed by Bolaji Olajide
 - [Best SQL books, tutorials, courses & videos 2017](https://reactdom.com/blog/sql-books) - Contributed by Bolaji Olajide
 - [SQL Keys in Depth](https://begriffs.com/posts/2018-01-01-sql-keys-in-depth.html) - Contributed by Christopher Kanyuga
-- [
