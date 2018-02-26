@@ -56,3 +56,7 @@ Outputs
 | A Hash breaks down barriers and lets me make associations in “plain English.” | [ ] | [ ]  |
 | The best way to implement data structures in Ruby is to Think Simple. | [ ] | [ ]  |
 
+ 
+ ### Resources
+ 
+ - [Traversing Trees for Rubyists](https://rlafranchi.github.io/2017/03/08/tree-traversal-for-rubyists/) - Contibuted by Michael Ogala
