@@ -57,3 +57,4 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 - [React Native, Firebase and You](https://blog.callstack.io/react-native-firebase-and-you-a07ae507910) - Contributed by Bolaji Olajide
 - [How I set up my React Native projects](https://medium.com/react-native-training/how-i-set-up-my-react-native-projects-bd30284e4512) - Written by Purity Birir
 - [React-Native—Leading Practices and Learnings](https://accenture.github.io/blog/2017/04/04/reactlearnings.html) - Contributed by Tonida Baraza
+- [React Native - Architecting for scale](http://www.uxenthusiast.com/react-native/2017/12/30/architecting-for-scale-react-native.html) - Written by Osifo Anosike 
