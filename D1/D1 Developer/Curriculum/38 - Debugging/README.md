@@ -57,3 +57,4 @@ After attaining this skill, and as a demonstration of it, I should be able creat
 
 - [_Bug Management_](https://vimeo.com/album/4718955) - _Workshop_ by Owajigbanam Ogbuluijah
 - [“How to Debug, a Beginner’s Guide”](https://www.codeproject.com/Articles/991643/What-is-Debugging-How-to-Debug-A-Beginners-Guide)- Code Project tutorial that gives a brief overview of debugging
+- [Debugging with Node.Js](https://www.youtube.com/watch?v=kNAgGudXiEM) - Contributed by Austin Roy
