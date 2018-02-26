@@ -49,6 +49,7 @@
 | [Comparing Frameworks Interactive Chart](http://vschart.com/compare/node-js/vs/django-framework)|
 | [Angular vs. React Comparison- Pluralsight](https://www.pluralsight.com/guides/front-end-javascript/angular-vs-react-a-side-by-side-comparison)|
 | [Information on GoThinkster repo](https://github.com/gothinkster/realworld)|
+| [Code Splitting with React and React Router](https://tylermcginnis.com/react-router-code-splitting/)
 
 ---- 
 
