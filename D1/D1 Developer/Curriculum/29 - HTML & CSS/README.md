@@ -70,4 +70,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 - [Understanding CSS Flexbox](https://codeburst.io/understanding-css-flexbox-d6162885fefe) - Contirbuted by Bolaji Olajide
 - [React.Fragment and Semantic HTML](https://blog.jmes.tech/react-fragment-and-semantic-html/) - Contributed by Fortune Ekuro
 - [Learn CSS Flexbox in 5 Minutes](https://medium.freecodecamp.org/learn-css-flexbox-in-5-minutes-b941f0affc34) - Contributed by Bolaji Olajide
-
+- [Browser Specific Hacks](https://css-tricks.com/snippets/css/browser-specific-hacks/) - Contributed by Bolaji Olajide
+- [CSS Grids](https://t.co/IZeR4gDyCz) - Contributed by Ore Sofola
+- [CSS Naming Conventions that Will Save You Hours of Debugging](https://medium.freecodecamp.org/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849) - Contributed by Bolaji Olajide
+- [Building a Good download button](https://css-tricks.com/building-good-download-button/) - Contributed by Bolaji Olajide
