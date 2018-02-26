@@ -68,3 +68,6 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 - [_My CSS Journey_](https://medium.com/backticks-tildes/my-css-journey-every-journey-begins-with-a-step-8a77162f3de8) - Written by Hope Ngerebara
 - [Learn CSS Grid in 5 Minutes](https://medium.freecodecamp.org/learn-css-grid-in-5-minutes-f582e87b1228) - Contributed by Bolaji Olajide
 - [Understanding CSS Flexbox](https://codeburst.io/understanding-css-flexbox-d6162885fefe) - Contirbuted by Bolaji Olajide
+- [React.Fragment and Semantic HTML](https://blog.jmes.tech/react-fragment-and-semantic-html/) - Contributed by Fortune Ekuro
+- [Learn CSS Flexbox in 5 Minutes](https://medium.freecodecamp.org/learn-css-flexbox-in-5-minutes-b941f0affc34) - Contributed by Bolaji Olajide
+
