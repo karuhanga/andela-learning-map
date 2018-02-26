@@ -68,3 +68,5 @@ A person with this skill can create a basic application using the Node.js framew
 - [NPM vs Yarn Cheat Sheet](https://shift.infinite.red/npm-vs-yarn-cheat-sheet-8755b092e5cc) - Contributed by Bolaji Olajide
 - [A crash course on Serverless with Node.js](https://hackernoon.com/a-crash-course-on-serverless-with-node-js-632b37d58b44) - Contributed by Bolaji Olajide
 - [Node JS in production](https://vimeo.com/album/4760489) _Workshop by Celestine Omin &  Kingdom Orjiewuru_
+- [Build a Twelve-Factor Node.js App with Docker](https://egghead.io/courses/build-a-twelve-factor-node-js-app-with-docker) - Contributed by Temi Lajumoke
+
