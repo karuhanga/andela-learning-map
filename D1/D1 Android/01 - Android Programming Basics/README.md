@@ -53,4 +53,4 @@ A person with this skill can apply their basic knowledge of Java programming to 
 
 ### Resources
 - [Add Firebase Authentication to your App in 7minutes](https://medium.com/@peterekeneeze/add-firebase-authentication-to-your-app-in-7minutes-c13df58994bd)
-
+- [Billion dollar tips for every Android developer](https://medium.com/the-andela-way/billion-tips-for-every-android-developer-c129d774732d) - Written by John Seremba
