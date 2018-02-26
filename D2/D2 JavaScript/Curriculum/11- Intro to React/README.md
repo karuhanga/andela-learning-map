@@ -88,6 +88,6 @@ A person with this skill is comfortable creating a basic program in React. They 
 - [5 practical tips to finally learn React in 2018](https://goshakkk.name/tips-finally-learn-react/) - Contributed by Austin Roy
 - [Understanding The React Source Code — Initial Rendering (Simple Component) I](https://hackernoon.com/understanding-the-react-source-code-initial-rendering-simple-component-i-80263fe46cf1) - Contributed by Mary Mazi
 - [Learn React.js from Top 45 Tutorials for the past year (v.2018)](https://medium.mybridge.co/learn-react-js-from-top-45-tutorials-for-the-past-year-v-2018-28b7f4d4b2c4) - Contributed by Austin Roy
-- [React.Fragment and Semantic HTML(https://blog.jmes.tech/react-fragment-and-semantic-html/} - Contributed by Christopher Kanyuga
+- [React.Fragment and Semantic HTML](https://blog.jmes.tech/react-fragment-and-semantic-html/} - Contributed by Christopher Kanyuga
 - [Best UI Frameworks for your new React.js App](https://hackernoon.com/the-coolest-react-ui-frameworks-for-your-new-react-app-ad699fffd651) - Contributed by Auston Roy
 
