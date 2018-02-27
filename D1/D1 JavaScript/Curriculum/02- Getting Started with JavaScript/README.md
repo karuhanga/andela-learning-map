@@ -58,4 +58,5 @@ A person with this skill can write and run basic JavaScript commands in the cons
 - [Javascript 30](https://javascript30.com/) _Build 30 things with Javascript in 30 days_ - Contributed by Eugene Omar
 - [Must Watch Javascript](https://github.com/AllThingsSmitty/must-watch-javascript/blob/master/README.md) - Contributed by Bolaji Olajide
 - [A Study Plan To Cure JavaScript Fatigue](https://goo.gl/M8njiD) - Contributed by Anthony Nandaa
-- [Understanding delete](http://perfectionkills.com/understanding-delete/) - Contributed by Dara Oladosu																					
+- [Understanding delete](http://perfectionkills.com/understanding-delete/) - Contributed by Dara Oladosu
+- [How to keep your JavaScript code simple and increase its readability](https://goo.gl/SZy6b5) - Contributed by Chrispine Chiedo																					
