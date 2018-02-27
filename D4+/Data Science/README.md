@@ -50,6 +50,7 @@ _You can create your own project, or you can select a suggested project from the
 - [Big Data](https://vimeo.com/album/4760489) _Workshop by Deji Kadri_
 - [_Expert meet-up_](https://soundcloud.com/learning-media/data-science-faqs) Podcast with a Data Science Expert
 - [A Simple Starter Guide to Build a Neural Network](https://towardsdatascience.com/a-simple-starter-guide-to-build-a-neural-network-3c2cf07b8d7c) - Contributed by Chrispine Chiedo
+- [Data Helpers](https://www.datahelpers.org/) - Contributed by Christopher Kanyuga																					
 
 
 ## Groups to Join & Mentors: 
