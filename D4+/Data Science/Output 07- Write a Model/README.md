@@ -39,6 +39,7 @@
 |----------|
 | [Data Analytics: Hands On](https://app.pluralsight.com/library/courses/data-analytics-hands-on/table-of-contents)- PluralSight _(See visualization & Tableau chapters)_ |
 | [Genetic Algorithms](https://goo.gl/t3GWxT) - _Written by Sagini Abenga_ |
+| [Getting started with Machine Learning on iOS](https://medium.com/the-andela-way/getting-started-with-machine-learning-on-ios-6d1eaf5ef116) _Written by Paul Nyondo_																				
 
 
 ---- 
