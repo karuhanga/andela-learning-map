@@ -61,3 +61,4 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 - ["How to Write a Perfect Error Message"](https://uxplanet.org/how-to-write-a-perfect-error-message-da1ca65a8f36) - Contributed by Bolaji Olajide
 - [_Automated Testing, End to End_](https://app.pluralsight.com/library/courses/automated-testing-end-to-end)- PluralSight course, good coverage of various testing types and how to apply them for end-to-end testing
 - [“End to End Testing”](https://www.guru99.com/end-to-end-testing.html)- Guru 99, good article that digs deeper into the “why” of end-to-end testing
+- [Locust.io: Load-testing using vagrant](https://www.codementor.io/samueljames/locust-io-load-testing-using-vagrant-ffwnjger9#.WnhezyUcRDI.facebook) - Written by Samuel James 																					
