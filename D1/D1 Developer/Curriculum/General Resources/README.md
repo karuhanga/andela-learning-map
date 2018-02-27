@@ -37,3 +37,9 @@ These resources allow you to get your hands dirty and practice
 - [My Mac Terminal Set Up](https://sirmuel.design/my-mac-terminal-setup-4e2f1c1b3189)
 - [I built an app that makes learning algorithms and data structures way more fun](https://goo.gl/AeZuLX) - Contirbuted by John Kagga
 - [Lexical Analysis](https://medium.com/@faical/lexical-analysis-861b8bfe4cb0) - Written by Faiçal Tchirou 
+- [The 2018 Web Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d) - Contributed by Chrispine Chiedo
+- [How to Make Your Code CLEAN and BEAUTIFUL](https://hackernoon.com/how-to-make-your-code-clean-and-beautiful-5ff7aee03be6) - Contributed by	Chrispine Chiedo			
+- [40 Side Project Ideas for Software Engineers](https://www.codementor.io/npostolovski/40-side-project-ideas-for-software-engineers-g8xckyxef)	- Contributed by Temitayo Fadojutimi	
+- [Carbon](https://goo.gl/wvFJoc) _Create and share beautiful images of your source code._ - Contributed by Eugene Omar		
+- [How do I disable the "Back" button of a browser?](https://www.irt.org/script/311.htm) - Contributed by	Rowland Henshaw	
+- 
