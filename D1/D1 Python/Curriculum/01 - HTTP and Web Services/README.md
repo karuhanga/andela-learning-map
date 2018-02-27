@@ -58,4 +58,4 @@ After attaining this skill, and as a demonstration of it, I should be able to bu
 | Before diving into the specifics of a programming language I must first understand its interactions with the surrounding web environment. | [ ] | [ ]  |
 
 ### Resources
-- [- [HTTPS explained with carrier pigeons](https://medium.freecodecamp.org/https-explained-with-carrier-pigeons-7029d2193351)	- Contributed by Mary Mazi		
+- [HTTPS explained with carrier pigeons](https://medium.freecodecamp.org/https-explained-with-carrier-pigeons-7029d2193351)	- Contributed by Mary Mazi		
