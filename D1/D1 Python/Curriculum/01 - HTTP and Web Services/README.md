@@ -59,3 +59,4 @@ After attaining this skill, and as a demonstration of it, I should be able to bu
 
 ### Resources
 - [HTTPS explained with carrier pigeons](https://medium.freecodecamp.org/https-explained-with-carrier-pigeons-7029d2193351)	- Contributed by Mary Mazi		
+- [HTTP codes as valentines day comics](https://medium.com/@hanilim/http-codes-as-valentines-day-comics-8c03c805faa0) - Contributed by Mary Mazi																					
