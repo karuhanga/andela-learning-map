@@ -74,3 +74,4 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 ### Resources
 
 - ["6 Months of Working Remotely Taught Me a Thing or Ten"](https://dev.to/peteranglea/6-months-of-working-remotely-taught-me-a-thing-orten) - Contributed by Purity Birir
+- [The 25 best icebreaker questions for team-building at work](https://blog.knowyourcompany.com/the-25-best-icebreaker-questions-for-team-building-at-work-cf5f48740240) - Contributed by	Austin Roy																					
