@@ -42,4 +42,5 @@ These resources allow you to get your hands dirty and practice
 - [40 Side Project Ideas for Software Engineers](https://www.codementor.io/npostolovski/40-side-project-ideas-for-software-engineers-g8xckyxef)	- Contributed by Temitayo Fadojutimi	
 - [Carbon](https://goo.gl/wvFJoc) _Create and share beautiful images of your source code._ - Contributed by Eugene Omar		
 - [How do I disable the "Back" button of a browser?](https://www.irt.org/script/311.htm) - Contributed by	Rowland Henshaw	
+- [Advice to a novice software developer](https://www.codementor.io/johnkagga/advice-to-a-novice-software-developer-fh0wdow62)	- Written by John Kagga																				
 
