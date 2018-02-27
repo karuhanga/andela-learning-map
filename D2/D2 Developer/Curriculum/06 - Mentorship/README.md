@@ -64,4 +64,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | I can mentor others even when I have more to learn about the topic myself | [ ] | [ ] |
 
 
+### Resources
+- [People Coaching @ Andela — Episode i: The Feedback Ride](https://goo.gl/C2pHJu	Generic	Text/Article) - Written by Gibran Visran 																		
+
 
