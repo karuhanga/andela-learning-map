@@ -61,3 +61,7 @@ A person with this skill can explain what it means to say that JavaScript is a �
 | Being familiar with prototypes will allow me to “see under the hood” of many JavaScript libraries that use them (jQuery, for example). |   [ ]   |   [ ] |
 | The prototypal inheritance model is more powerful than the classic model-- I can build a classic model on top of my prototypal model. |   [ ]   |   [ ] |
 | Too much inheritance can lead to confusion and endless pain when debugging. | [ ] | [ ] |
+
+### Resources
+
+- [Can (a ==1 && a== 2 && a==3) ever evaluate to true?](https://stackoverflow.com/questions/48270127/can-a-1-a-2-a-3-ever-evaluate-to-true) - Contributed by Christopher Kanyuga																					
