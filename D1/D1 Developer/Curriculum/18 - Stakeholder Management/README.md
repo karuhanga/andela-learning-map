@@ -92,3 +92,4 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 - [_Stakeholder Management_](https://app.pluralsight.com/library/courses/pmp-project-stakeholder-management)- PluralSight, from Project Manager course, don’t feel like you need to complete the full course, but some good insights in some of the videos
 - [_Engaging your Stakeholders_](https://app.pluralsight.com/library/courses/pgmp-engaging-stakeholders/table-of-contents)- PluralSight, starts off with identification of stakeholders and how to engage, good resource to use in conjunction with real world practice. 
+- [Delivering effective communication in software teams](https://goo.gl/V6yVNS) - Contributed by Chrispine Chiedo																					
