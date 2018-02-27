@@ -57,3 +57,6 @@ A person with this skill can use Node.js to work with RESTful APIs, Routing, and
 | By following shared syntax conventions for building APIs, I can increase productivity and take advantage of generalized tooling. | [ ] | [ ] |
 | Building RESTful web services is part art, part science. | [ ] | [ ] |
 | In the most general sense, an API is simply how two applications work together. | [ ] | [ ] |
+
+### Resources
+- [HTTPS explained with carrier pigeons](https://medium.freecodecamp.org/https-explained-with-carrier-pigeons-7029d2193351)	- Contributed by Mary Mazi																					
