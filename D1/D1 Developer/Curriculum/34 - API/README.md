@@ -56,3 +56,4 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 - ["Representational State Transfer (REST)"](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm) - Contributed by Inumidun Amao
 - [_How to version your API the right way_](https://vimeo.com/242066648) - Tutorial video by Temitayo Fadojutimi
 - [APIs: How the Internet Works Behind the Scenes](https://hackernoon.com/apis-how-the-internet-works-behind-the-scenes-690288634c32) - Contributed by Bolaji Olajide
+- [How and why I built Express-api-versioning](https://www.codementor.io/fadojutimitemitayo/how-and-why-i-built-express-api-versioning-evtcdll5e) - Written by Temitayo Fadojutimi 																	
