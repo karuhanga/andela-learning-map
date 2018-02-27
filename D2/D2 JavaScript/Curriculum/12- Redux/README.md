@@ -57,3 +57,4 @@ A person with this skill can make use of the Redux library and the Flux pattern 
 - [“When do I know I’m ready for Redux?”](https://medium.com/dailyjs/when-do-i-know-im-ready-for-redux-f34da253c85f) - Contributed by Edmond B. Atto
 - [You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367) - Edmond B. Atto
 - [Learn Redux](https://learnredux.com/) - Contributed by Eugene Omar
+- [A cartoon intro to Redux](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6) - Contributed by Mary Mazi																					
