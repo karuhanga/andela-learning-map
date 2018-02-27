@@ -72,3 +72,4 @@ A person with this skill is fluent in the newest syntax of ES6 implementation sy
 
 ### Resources
 -  ["The Anatomy of a Modern JavaScript Application"](https://www.sitepoint.com/anatomy-of-a-modern-javascript-application/) - Contributed by Bolaji Olajide
+- [What are ES6 generators useful for?](https://appendto.com/2016/06/powering-javascript-with-generators/) - Contributed by Fortune Ekuro																					
