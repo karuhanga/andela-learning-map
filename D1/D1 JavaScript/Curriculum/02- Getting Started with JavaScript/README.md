@@ -57,3 +57,4 @@ A person with this skill can write and run basic JavaScript commands in the cons
 - ["12 Extremely Useful Hacks for JavaScript"](https://hashnode.com/post/12-extremely-useful-hacks-for-javascript-cj99gwkjv01k64rwtb4dbwigd) - Contirbuted by Hadi Jimoh
 - [Javascript 30](https://javascript30.com/) _Build 30 things with Javascript in 30 days_ - Contributed by Eugene Omar
 - [Must Watch Javascript](https://github.com/AllThingsSmitty/must-watch-javascript/blob/master/README.md) - Contributed by Bolaji Olajide
+- [A Study Plan To Cure JavaScript Fatigue](https://goo.gl/M8njiD) - Contributed by Anthony Nandaa
