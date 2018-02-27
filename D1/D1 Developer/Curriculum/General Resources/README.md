@@ -43,4 +43,4 @@ These resources allow you to get your hands dirty and practice
 - [Carbon](https://goo.gl/wvFJoc) _Create and share beautiful images of your source code._ - Contributed by Eugene Omar		
 - [How do I disable the "Back" button of a browser?](https://www.irt.org/script/311.htm) - Contributed by	Rowland Henshaw	
 - [Advice to a novice software developer](https://www.codementor.io/johnkagga/advice-to-a-novice-software-developer-fh0wdow62)	- Written by John Kagga																				
-
+- [Roadmap to becoming a Web Developer in 2018](https://github.com/BolajiOlajide/developer-roadmap) - Written by Bolaji Olajide 																					
