@@ -60,3 +60,4 @@ A person with this skill can write and run basic JavaScript commands in the cons
 - [A Study Plan To Cure JavaScript Fatigue](https://goo.gl/M8njiD) - Contributed by Anthony Nandaa
 - [Understanding delete](http://perfectionkills.com/understanding-delete/) - Contributed by Dara Oladosu
 - [How to keep your JavaScript code simple and increase its readability](https://goo.gl/SZy6b5) - Contributed by Chrispine Chiedo																					
+- [Update Copyright Year automatically](https://medium.com/@ade_adebimpe/update-copyright-year-automatically-fcd6a137aead) - Contributed by Bolaji Olajide																					
