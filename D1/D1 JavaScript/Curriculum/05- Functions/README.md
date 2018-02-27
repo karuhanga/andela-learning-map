@@ -53,3 +53,4 @@ A person with this skill can write clean, powerful JavaScript code that executes
 
 - ["JavaScript ES7 Function Bind Syntax"](https://blog.jeremyfairbank.com/javascript/javascript-es7-function-bind-syntax/) - Contributed by Rowland Henshaw
 - [Understanding JavaScript Closures: A Practical Approach](https://scotch.io/tutorials/understanding-javascript-closures-a-practical-approach) - Written by Paul Upendo 
+- [Generators in JavaScript](https://codeburst.io/generators-in-javascript-1a7f9f884439) - Contributed by Fortune Ekuro																					
