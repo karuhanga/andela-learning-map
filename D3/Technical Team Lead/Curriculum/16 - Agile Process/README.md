@@ -55,3 +55,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Everything can be iteratively improved on, even the process you’re using to improve  | [ ] | [ ]  |
 | Improvement is best done within your current working process as an “evolution”   | [ ] | [ ]  |
 | Revolutionaries waste time and gum up the works  | [ ] | [ ]  |
+
+### Resources
+
+- [Agile Practices for Effective Tech Leads](https://medium.com/@briceicle/agile-practices-of-effective-tech-leads-888c46eb1710) - Written by	Brice Nkengsa																					
