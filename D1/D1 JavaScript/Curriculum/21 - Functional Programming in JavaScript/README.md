@@ -59,3 +59,4 @@ A person with this skill can write code using functions as building blocks. They
 - ["Introduction to Functional Programming in JavaScript"](https://medium.com/the-andela-way/introduction-to-functional-programming-in-javascript-1e7118545618) - Written by Paul Upendo
 - ["Functional Programming and Function Chaining in JavaScript"](https://medium.com/@gertienyesh/functional-programming-and-function-chaining-in-javascript-76628d3cf1f5) - Written by Gertrude Nyenyeshi
 - ["Introduction to Immutable.js and Functional Programming Concepts"](https://auth0.com/blog/intro-to-immutable-js/) - Contributed by Rowland Henshaw
+- [Functional Programming Paradigm Demystified (Core Concepts)](https://hackernoon.com/functional-programming-paradigm-demystified-core-concepts-d9828762717e) - Contributed by Chrispine Chiedo																					
