@@ -47,4 +47,5 @@ A person with this skill can explain the history and evolution of JavaScript, wh
 
 - ["Understanding the JavaScript Engine — Part 1"](https://medium.com/the-andela-way/understanding-javascript-part-1-dbcca37b434d) - Written by Debby Enoma
 - [JSBooks](https://jsbooks.revolunet.com/) _The best free Javascript Resources_ - Contributed by Anthony Nandaa
+- [2017 JavaScript Rising Stars](https://risingstars.js.org/2017/en/)	- Contributed by Austin Roy																					
 
