@@ -65,6 +65,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 
 ### Resources
+
 - [People Coaching @ Andela — Episode i: The Feedback Ride](https://goo.gl/C2pHJu	Generic	Text/Article) - Written by Gibran Visran 																		
 
 
