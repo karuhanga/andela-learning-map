@@ -63,3 +63,7 @@ Outputs
 | Adapt fast and deploy releases frequently | [ ] | [ ] |
 | CI systems provide feedback about failure and enables developers to have more confidence in making their changes | [ ] | [ ] |
 | Automating repetitive processes increases efficiency; Efficiency is the heart and soul of DevOps | [ ] | [ ] |
+
+
+### Resources
+- [How I built a CI server Using Docker](https://medium.com/@Oskarr3/sicuro-ci-2f40ba138233) - Written by	Oscar Oranagwa 												
