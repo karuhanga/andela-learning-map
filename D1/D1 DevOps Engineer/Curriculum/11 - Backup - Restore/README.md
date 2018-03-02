@@ -56,4 +56,4 @@ Outputs
 | Verifying that the backup worked gives me peace of mind.| [ ] | [ ] |
 
 ### Resources
-- [Using AWS Cloud in a Disaster Recovery Strategy](https://medium.com/@oyenuga.temitope/using-aws-cloud-in-a-disaster-recovery-strategy-a1ff7670c464) 
+- [Using AWS Cloud in a Disaster Recovery Strategy](https://medium.com/@oyenuga.temitope/using-aws-cloud-in-a-disaster-recovery-strategy-a1ff7670c464) - Contributed by Ore Sofola
