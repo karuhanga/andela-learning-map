@@ -61,3 +61,6 @@ Outputs
 | Embodied Belief   |      Felt          | Demonstrated |
 |:------------------|:------------------:|:------------:|
 | Understanding Networking concepts is not just theoretical-- it will make me a more effective DevOps engineer. | [ ] | [ ] |
+
+### Resources
+- [D1 DevOps - Networking	Nginx: Setting Up a Simple Proxy Server Using Docker and Python/Django](https://goo.gl/7SsvNw) - Written by	Samuel James 																					
