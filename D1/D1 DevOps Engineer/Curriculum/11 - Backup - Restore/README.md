@@ -54,3 +54,6 @@ Outputs
 | It is my responsibility to protect user information | [ ] | [ ] |
 | Having a backup installed is like having a magical “undo” button-- I will inevitably be very grateful for its existence | [ ] | [ ] |
 | Verifying that the backup worked gives me peace of mind.| [ ] | [ ] |
+
+### Resources
+- [Using AWS Cloud in a Disaster Recovery Strategy](https://medium.com/@oyenuga.temitope/using-aws-cloud-in-a-disaster-recovery-strategy-a1ff7670c464) 
