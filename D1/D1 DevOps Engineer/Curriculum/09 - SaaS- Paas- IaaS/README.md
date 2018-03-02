@@ -55,3 +55,5 @@ A person with this skill can explain what SaaS, PaaS, and IaaS are and the diffe
 | PaaS allows me to focus only on application development-- it takes care of the rest | [ ] | [ ] |
 | PaaS makes release management easy (rolling back code and deploying code) | [ ] | [ ] |
  
+### Resources
+- [A Workaround Heroku's Ephemeral File System](https://www.codementor.io/samueljames/a-workaround-heroku-s-ephemeral-file-system-e6w341zqa) - Written by Samuel James 															
