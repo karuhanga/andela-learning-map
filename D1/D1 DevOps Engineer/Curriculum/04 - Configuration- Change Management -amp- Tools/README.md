@@ -51,3 +51,6 @@ Outputs
 |:------------------|:------------------:|:------------:|
 | Configuration scripts should be idempotent. | [ ] | [ ] |
 | I leverage the process of provisioning and orchestrating machines through effective use of configuration tools. | [ ] | [ ] |
+
+### Reosurces
+- [Building custom machine images with Packer](https://medium.com/the-andela-way/building-custom-machine-images-with-packer-a21c6d932bf6) - Written by David Mukiibi 																
