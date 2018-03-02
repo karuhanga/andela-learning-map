@@ -50,3 +50,5 @@
 >> ### Contribute
 >> _Have a resource, experience, or edit you'd like to add to this Output? Submit it [here](https://docs.google.com/a/andela.com/forms/d/e/1FAIpQLSeiwit-7JW3UScG9ItDX9DUZZnlCwdpo7aWruahsPKNJ_6JOA/viewform?usp=sf_link) and be an active participant in keeping our Curriculum a current, living document!_
 
+### Resources
+- [WebRTC: Up and Real-timing. Part 1](https://medium.com/the-andela-way/webrtc-up-and-real-timing-part-1-68918a3416a0) - Written by Timi Aiyemo																			
