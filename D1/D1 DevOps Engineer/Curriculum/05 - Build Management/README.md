@@ -55,4 +55,4 @@ Outputs
 | A broken build must be immediately fixed or there will be trickle-down consequences | [ ] | [ ] |
 
 ### Resources
-- [Docker meets Flask and Postgres](https://medium.com/the-andela-way/docker-meets-flask-and-postgres-5259d4a87c03)	DevOps	Text/Article	David Mukiibi (Writer)																					
+- [Docker meets Flask and Postgres](https://medium.com/the-andela-way/docker-meets-flask-and-postgres-5259d4a87c03)	- David Mukiibi (Writer)																					
