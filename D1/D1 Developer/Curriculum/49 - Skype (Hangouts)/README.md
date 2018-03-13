@@ -9,7 +9,7 @@ The Fellow knows how to setup a call, initiate a call with a new contact, respon
 ----------
 After attaining this skill, and as a demonstration of it, I should be able to create the following:
 
-1. Screencasts of me participating in a remote call using Skype or Hangouts
+1. Screencasts of me participating in a remote call using Skype, Zoom, or Hangouts
 
 
 **Objectives**
@@ -64,3 +64,4 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 ### Resources
 
 - [“Get Started with Google Hangouts”](https://gsuite.google.com/learning-center/products/hangouts/get-started/) - Google Learning Center
+- [“Get Started with Zoom”](https://support.zoom.us/hc/en-us/articles/206618765-Zoom-Video-Tutorials)- Zoom Learning Center
