@@ -1,8 +1,8 @@
-# Outcome 50 - Client Vision Alignment
+# Outcome 50 - Partner Vision Alignment
 
 ## Skill Description
 
-The Fellow is able to articulate the vision of their client in their own words, understands how their work helps the client achieve their goals, and demonstrates personal alignment with the client's vision and goals.
+The Fellow is able to articulate the vision of their Partner in their own words, understands how their work helps the client achieve their goals, and demonstrates personal alignment with the Partner's vision and goals.
 
 ## Output
 
