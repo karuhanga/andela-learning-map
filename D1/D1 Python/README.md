@@ -1,6 +1,6 @@
 # Python for Web
 
-The Python for Web curriculum detailed here shows all the Knowledge, Behaviors and Beliefs required for an Andela Developer to become D1 ready in Python Web Development. hi! 
+The Python for Web curriculum detailed here shows all the Knowledge, Behaviors and Beliefs required for an Andela Developer to become D1 ready in Python Web Development.
 
 ### The skills covered here are
 1. HTTP and Web Services
