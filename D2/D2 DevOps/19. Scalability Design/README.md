@@ -16,5 +16,3 @@ A D2 DevOps Engineer understands the importance of scaling, how it impacts the o
 
 ### Resources
 - [Selecting a Cloud Platform and Designing a Highly Available Solution](https://cloudacademy.com/learning-paths/designing-a-highly-available-business-solution-52/)- Cloud Academy
-
-- [title](www.youtube.com) - Contributed by Ore 
