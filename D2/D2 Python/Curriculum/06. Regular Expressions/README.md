@@ -45,3 +45,5 @@ A fellow is able to use Regular expressions as a powerful and standardized way o
 - [Hacker Rank - RegEx](https://www.hackerrank.com/domains/regex/re-introduction) 
 
 - [Regular Expressions](https://www.regular-expressions.info/) - Contributed by Bolaji Olajide
+
+- [Datacamp - Regular Expression Tutorial(https://www.datacamp.com/community/tutorials/python-regular-expression-tutorial)
