@@ -20,6 +20,9 @@ A fellow is able to use threads as a model and implementation pattern for perfor
 | How to use different methods provided by the thread class to implement threading? | [ ] | [ ] |
 | How to synchronize threads using synchronization primitives provided by the threading module. | [ ] | [ ] |
 | How to use the multithreaded priority queue to create and control a new queue object that hold a specific number of items. | [ ] | [ ] |
+| Implement concurrency and multithreading | [ ] | [ ] |
+| Implement co-routines | [ ] | [ ] |
+
 
 ### Behaviors:
 | Observable Behavior   |      Practiced      | Observed |
@@ -46,3 +49,7 @@ A fellow is able to use threads as a model and implementation pattern for perfor
 [Python - Multiprocessing documentation](https://docs.python.org/2/library/multiprocessing.html)
 
 [Toptal - Guide to Concurrency and Parellelism](https://www.toptal.com/python/beginners-guide-to-concurrency-and-parallelism-in-python)
+
+[Tasks and Coroutines](https://docs.python.org/3/library/asyncio-task.html)
+
+[Concurrency and Multithreading](https://docs.python.org/3/library/asyncio-dev.html#asyncio-multithreading)
