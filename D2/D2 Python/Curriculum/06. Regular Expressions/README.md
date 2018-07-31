@@ -46,4 +46,4 @@ A fellow is able to use Regular expressions as a powerful and standardized way o
 
 - [Regular Expressions](https://www.regular-expressions.info/) - Contributed by Bolaji Olajide
 
-- [Datacamp - Regular Expression Tutorial(https://www.datacamp.com/community/tutorials/python-regular-expression-tutorial)
+- [Datacamp - Regular Expression Tutorial](https://www.datacamp.com/community/tutorials/python-regular-expression-tutorial)
