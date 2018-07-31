@@ -20,8 +20,8 @@ A fellow is able to use threads as a model and implementation pattern for perfor
 | How to use different methods provided by the thread class to implement threading? | [ ] | [ ] |
 | How to synchronize threads using synchronization primitives provided by the threading module. | [ ] | [ ] |
 | How to use the multithreaded priority queue to create and control a new queue object that hold a specific number of items. | [ ] | [ ] |
-| Implement concurrency and multithreading | [ ] | [ ] |
-| Implement co-routines | [ ] | [ ] |
+| How to implement concurrency and multithreading | [ ] | [ ] |
+| How to implement co-routines | [ ] | [ ] |
 
 
 ### Behaviors:
