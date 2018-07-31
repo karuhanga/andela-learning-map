@@ -30,7 +30,7 @@ A fellow is able to avoid anti-patterns in their code and implement best practic
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | Using these anti-patterns makes for less readable, more buggy, and less Pythonic code. | [ ] | [ ] |
-| it is almost always more beneficial in the long-term to quickly acknowledge and repair broken windows (i.e. broken code) 
+| It is almost always more beneficial in the long-term to quickly acknowledge and repair broken windows (i.e. broken code) 
 immediately| [ ] | [ ] |
 
 
