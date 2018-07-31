@@ -46,6 +46,7 @@ A fellow is able to apply Python to build portable graphical user interfaces, pr
 
 ### Resources:
 
+- [The Tkinter Package] (https://docs.python.org/3/library/tk.html)
 - [Tkinter Book](http://effbot.org/tkinterbook/tkinter-index.htm#introduction)
 - [Tutorial Point](https://www.tutorialspoint.com/python/python_gui_programming.htm)
 - [Wiki Python](https://wiki.python.org/moin/GuiProgramming)
