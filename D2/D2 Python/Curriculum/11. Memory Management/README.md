@@ -42,8 +42,7 @@ after the app has completely started and then continue doing so in steady operat
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | Everything in Python is an object. | [ ] | [ ] |
-| Memory management in Python involves a private heap containing all Python objects and data structures. The management 
-of this private heap is ensured internally by the Python memory manager. | [ ] | [ ] |
+| Memory management in Python involves a private heap containing all Python objects and data structures. The management of this private heap is ensured internally by the Python memory manager. | [ ] | [ ] |
 
 
 ### Resources:
