@@ -1,7 +1,0 @@
-# Input, Output and Files
-
-## Skill Description:
-A fellow is able to manipulate files and folders within an application and implement Hashing.
-
-# Output:
-**Task:** Create a file system that includes, creating files, folders, moving files from one folder to another within a main folder. Use the “Hash” of a file to check if a file has been updated or changed.
