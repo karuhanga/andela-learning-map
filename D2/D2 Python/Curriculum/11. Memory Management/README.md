@@ -29,12 +29,9 @@ using Garbage Collection.
 ### Behaviours:
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| **Context:** If your program has intensive workload and requires low latency, **Action:** you should avoid reference 
-cycles as possible. | [ ] | [ ] | 
-| **Context:** Do not force collect garbage too many times. This is because even if you are freeing the memory, **Action:**  
-it still takes time to evaluate an object’s eligibility for being Garbage collected.| [ ] | [ ] |
-| **Context:** If you want to manually manage the Garbage Collection in your application,, **Action:** start doing it only 
-after the app has completely started and then continue doing so in steady operations.| [ ] | [ ] | 
+| **Context:** If your program has intensive workload and requires low latency, **Action:** you should avoid reference cycles as possible. | [ ] | [ ] | 
+| **Context:** Do not force collect garbage too many times. This is because even if you are freeing the memory, **Action:**  it still takes time to evaluate an object’s eligibility for being Garbage collected.| [ ] | [ ] |
+| **Context:** If you want to manually manage the Garbage Collection in your application,, **Action:** start doing it only after the app has completely started and then continue doing so in steady operations.| [ ] | [ ] | 
 
 
 
