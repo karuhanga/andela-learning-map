@@ -30,8 +30,7 @@ A fellow is able to avoid anti-patterns in their code and implement best practic
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | Using these anti-patterns makes for less readable, more buggy, and less Pythonic code. | [ ] | [ ] |
-| It is almost always more beneficial in the long-term to quickly acknowledge and repair broken windows (i.e. broken code) 
-immediately| [ ] | [ ] |
+| It is almost always more beneficial in the long-term to quickly acknowledge and repair broken windows (i.e. broken code) immediately| [ ] | [ ] |
 
 
 ### Resources:
@@ -40,3 +39,5 @@ immediately| [ ] | [ ] |
 - [Anti-patterns in Python Programming](http://lignos.org/py_antipatterns/)
 - [Python Best Practices](https://airbrake.io/blog/python/python-best-practices)
 - [Tips by Toptal Developers](https://www.toptal.com/python/tips-and-practices)
+- [Documenting Python Code](https://realpython.com/documenting-python-code/)
+
