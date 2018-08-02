@@ -29,8 +29,7 @@ which provides a Pythonic way of interacting with databases.
 ### Behaviours:
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| **Context:** if you need to access an Oracle database as well as a MySQL database, **Action:** you must download 
-both the Oracle and the MySQL database modules.| [ ] | [ ] | 
+| **Context:** if you need to access an Oracle database as well as a MySQL database, **Action:** you must download both the Oracle and the MySQL database modules.| [ ] | [ ] | 
 
 
 ### Beliefs:
