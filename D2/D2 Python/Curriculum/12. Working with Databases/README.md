@@ -12,6 +12,7 @@ which provides a Pythonic way of interacting with databases.
 * Create a database
 * Write a program to access the database
 * Write short programs that execute complex SQL queries that will enable you interact with your data in powerful ways.
+* Create a mini ORM using Python and SQL to show the CRUD operation.
 
 
 ### Knowledge: 
@@ -21,8 +22,8 @@ which provides a Pythonic way of interacting with databases.
 | Importing the API module. | [ ] | [ ] |
 | Acquiring a connection with the database. | [ ] | [ ] |
 | Issuing SQL statements and stored procedures. | [ ] | [ ] |
-| Closing the connection | [ ] | [ ] |
-
+| Closing the connection. | [ ] | [ ] |
+| Working with the CRUD operation. | [ ] | [ ] |
 
 
 ### Behaviours:
