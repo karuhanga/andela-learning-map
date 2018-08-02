@@ -28,19 +28,14 @@ main folder. Use the “Hash” of a file to check if a file has been updated or
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I want to get a file object, **Action:** I use Python’s built in open function | [ ] | [ ] | 
-| **Context:** For the correct and efficient computation of the hash value of a file, **Action:** Open the file in binary 
-mode to avoid character encoding, Don't read the complete file into memory, since that is a waste of memory. Instead, 
-sequentially read it block by block and update the hash for each block.
-Eliminate double buffering, i.e. don't use buffered IO, because we already use an optimal block size.| [ ] | [ ] |
+| **Context:** For the correct and efficient computation of the hash value of a file, **Action:** Open the file in binary mode to avoid character encoding, Don't read the complete file into memory, since that is a waste of memory. Instead, sequentially read it block by block and update the hash for each block.Eliminate double buffering, i.e. don't use buffered IO, because we already use an optimal block size.| [ ] | [ ] |
 
 
 ### Beliefs:
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| When you’re working with Python, you don’t need to import a library in order to read and write files. It’s handled 
-natively in the language, albeit in a unique manner. | [ ] | [ ] |
-| In Python, a file is categorized as either text or binary, and the difference between the two file types is 
-important. | [ ] | [ ] |
+| When you’re working with Python, you don’t need to import a library in order to read and write files. It’s handled natively in the language, albeit in a unique manner. | [ ] | [ ] |
+| In Python, a file is categorized as either text or binary, and the difference between the two file types is important. | [ ] | [ ] |
 
 
 ### Resources:
