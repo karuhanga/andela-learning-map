@@ -2,7 +2,7 @@
 
 ## Skill Description:
 
-A fellow is able to avoid anti-patterns in their code and implement best practices.
+A fellow is able to avoid anti-patterns in their python code and implement best practices.
 
 
 # Output:
